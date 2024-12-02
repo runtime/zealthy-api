@@ -1,0 +1,15 @@
+.idea/
+*.idea
+
+cdk.context.json
+package-lock.json
+yarn.lock
+.cdk.staging
+cdk.out
+
+.DS_Store
+
+.env
+.env.production
+.env.staging
+
